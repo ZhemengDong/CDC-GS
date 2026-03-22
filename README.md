@@ -21,7 +21,7 @@ To prepare the environment,
 3. Install Submodules:
     ```
     CUDA_HOME=PATH/TO/CONDA/envs/3dgs-mcmc-env/pkgs/cuda-toolkit/ pip install submodules/diff-gaussian-rasterization submodules/diff-gaussian-rasterization-cdc submodules/simple-knn/
-        ```
+    ```
 
 ## Run CDC-GS
 Train 3DGS
